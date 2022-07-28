@@ -1,0 +1,132 @@
+* {
+  box-sizing: border-box;
+}
+.background1{
+    width: 50%;
+    
+    float: right;
+    display: inline;
+    margin-right: 25%;
+    background: linear-gradient(to right, rgba(162, 2, 109, 0.594), rgba(2, 61, 89, 0.668));
+    background-position: center;  
+}
+
+.head-style{
+    color: white;
+    float: right;
+    display: inline;
+    margin-right: 25%;
+}
+
+.head-style h1 {
+    text-align: center;
+    margin-top: 4%; 
+    font-size: 30px;
+
+}
+
+.head-style p {
+    text-align: center; 
+    font-size: 14px;
+ 
+}
+
+.form-list{
+    margin-top: 2%;
+    float: right;
+    margin-right: 21%;
+    margin-bottom: 2%;
+    list-style: none;
+}
+
+.form-list li{
+    margin-bottom: -4px;
+}
+
+
+.form-list li label{
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    padding-right: 30px;
+}
+
+.form-list li input{
+    width: 320px;
+    height: 30px;
+    padding-left: 20px;
+    border-style: none;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-size: 13px;
+    
+
+}
+
+.form-list li #email{
+    margin-left: 35px;
+}
+.form-list li #dob{
+    margin-left: 30px;
+}
+
+.radio-option{ 
+    float: right;
+    display: inline;
+    margin-right: 39%;
+    margin-bottom: 2%;
+    margin-top: 0%;
+    font-size: 13px;
+    color: white;
+}
+
+.checkbox-opt{
+    float: right;
+    display: inline;
+    margin-right: 29%;
+    margin-bottom: 2%;
+    font-size: 13px;
+    color: white;
+}
+
+.message-box{
+    float: right;
+    display: inline;
+    margin-right: 28%;
+    color: white;
+    font-size: 13px;
+
+}
+
+.message-box button{
+    width: 30%;
+    color: grey;
+    float: right;
+    margin-right: -35%;
+    margin-top: -23%;
+    border-style: none;
+}
+/*
+.page-link{
+
+}
+
+
+
+
+
+
+
+
+
+
+.radio-option label{
+    color: white;
+}
+
+
+
+
+
+
+

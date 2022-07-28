@@ -1,0 +1,72 @@
+*{
+margin: 0;
+padding: 0;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+box-sizing: border-box;
+
+}
+
+.header-bg{
+    width: 45%;
+    padding:6px;
+    color: rgb(121, 120, 120);
+    background-color: white;
+    
+}
+
+.banner-logo{
+  margin-top: -50px; 
+  margin-left: -40px; 
+}
+
+.container{
+    width: 60%;
+    padding: 4%;
+    background-color: rgb(230, 227, 227);
+}
+
+.box-1{
+    width: 109%;
+    padding: 3%;
+    border-style: solid;
+    border-color: rgb(67, 67, 141);
+    margin-top: -5px;
+    margin-left: -40px;
+    background-color: white;
+
+}
+.my-list{
+
+    
+}
+
+.rightside-logo{
+    float: right;
+    margin-top: -90px;
+}
+
+.paragraph{
+    margin-left: -41px;
+    margin-top: 20px;
+}
+.labels{
+    margin-left: 40px;
+}
+
+.footer-area{
+margin-left: -50px;
+}
+
+#bottom-line{
+   border-bottom: 3px solid rgb(163, 162, 162); 
+   width: 114%;
+   
+   color: rgb(121, 120, 120);
+
+}
+.button{
+    padding: 2px 35px;
+    float: right;
+    background-color: rgb(211, 208, 208);
+
+}
